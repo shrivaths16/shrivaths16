@@ -3,5 +3,4 @@
 - Languages: Python, C/C++, C#, MATLAB, HTML, CSS, JavaScript
 - Interests: AI, Game Development, Software Engineering
 
-
-[![Shrivaths's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrivaths16)](https://github.com/anuraghazra/github-readme-stats)
+![Shrivaths's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrivaths16&show_icons=true&theme=radical)
